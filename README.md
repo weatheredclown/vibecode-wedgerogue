@@ -3,7 +3,7 @@ Vibe-Coding output based on "Create an Asteroids-Inspired Rogue-like with Colorf
 
 ```
 $ pip install pygame
-$ python wedgerogue.py
+$ python main.py
 ```
 
 ai generated music, ai generated fm-synthesis soundfx, ai generated sprites
